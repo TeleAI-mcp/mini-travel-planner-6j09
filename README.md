@@ -1,2 +1,3 @@
-# mini-travel-planner-6j09
+# Mini Travel Planner 6J09
+
 A travel planning application for modern development workflows.
